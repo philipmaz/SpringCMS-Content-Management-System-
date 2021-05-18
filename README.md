@@ -2,7 +2,7 @@
 web app based on Spring framewok allowing users to manage articles and their details
 
 
-Consists of three classess: Article, Author and Category
+Consists of three entity classes: Article, Author and Category
 
 Uses mySQL database and store data in it.
 
