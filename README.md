@@ -17,6 +17,6 @@ Category readall page also allows searching for associated articles for given ca
 
 Users can go directly from Categories page to Articles readall page cliking on the link "show all articles" at the bottom of the page.
 
-Project encorporates two probably the most popular frameworks in Java: Spring and Hibernate.
+Project encorporates two frameworks in Java: Spring and Hibernate.
 
-Have a nice time trying out my app!
+
